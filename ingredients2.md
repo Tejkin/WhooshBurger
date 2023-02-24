@@ -1,8 +1,8 @@
 Top Bun
 
+cheese\
+patty\
+egg
 
 
-
-
-
-Bottom Bun
+Bottom
